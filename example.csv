@@ -1,0 +1,2 @@
+mysample1,/full/path/to/sample/read/location/sample1_R1.fastq,/full/path/to/sample/location/sample1_R2.fastq
+mysample2,/full/path/to/sample/read/location/sample.fastq,None
